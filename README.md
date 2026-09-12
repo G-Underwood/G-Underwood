@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm George Underwood, 18 years old, just finished my A-Levels.<br>I'm currently learning python, C++ and hopefully soon SQL.<br>I'm currently working on developing my skills so I can design, code, test, and evaluate investment/trading strategies without relying on someone else's signals.<br>Current projects for the near future are creating a stock database, stock screener, and a portfolio tracker.
+I'm George Underwood, 18 years old, just finished my A-Levels and taking a gap year.<br>I'm currently learning python, C++ and hopefully soon SQL.<br>I'm currently working on developing my skills so I can design, code, test, and evaluate investment/trading strategies without relying on someone else's signals.<br>Current projects for the near future are creating a statistical arbitrage strategy and a monte-carlo simulation.
 
 
 ## 🌐 Socials:
